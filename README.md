@@ -20,7 +20,7 @@
 
 ### 下载
 GitHub Releases 页面提供 APK（arm64-v7a、arm64-v8a、x86_64）  
-[https://github.com/stand404/timed_shutdown/releases](https://github.com/stand404/timed_shutdown/releases)
+[https://github.com/stand404/Timed-shutdown/releases](https://github.com/stand404/Timed-shutdown/releases)
 
 ### 构建
 ```bash
