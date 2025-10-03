@@ -20,7 +20,7 @@ A Flutter-based Android app for scheduled power-off.
 
 ### Download
 APK files (armeabi-v7a, arm64-v8a, x86_64) are available on the GitHub Releases page  
-[https://github.com/stand404/timed_shutdown/releases](https://github.com/stand404/timed_shutdown/releases)
+[https://github.com/stand404/Timed-shutdown/releases](https://github.com/stand404/Timed-shutdown/releases)
 
 ### Build
 ```bash
